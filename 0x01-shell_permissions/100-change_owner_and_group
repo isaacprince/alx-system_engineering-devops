@@ -1,2 +1,2 @@
 #!/bin/bash
-chown  -type d -exec chmod 755 {} +tstaff
+chown vincent:staff *
